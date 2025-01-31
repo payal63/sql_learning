@@ -42,7 +42,7 @@ The following SQL queries were executed to derive key insights from the Olympic 
 19. **India’s Highest Medal-Winning Sport/Event** - Finding India's best-performing discipline.
 20. **India’s Hockey Medal Breakdown** - Listing all Olympic Games where India won hockey medals.
 
-
+**To refer this questions : athlete_query.sql
 
 ## Conclusion
 
